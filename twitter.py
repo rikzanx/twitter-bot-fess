@@ -228,10 +228,10 @@ class Twitter:
                 else:
                     try:
                         print("deleting message (keyword not in message)")
-                        notif = "Keyword yang kamu kirim salah!"
+                        # notif = "Keyword yang kamu kirim salah!"
                         sent = api.send_direct_message(
                             recipient_id=sender_id, text=notif).id
-                        self.delete_dm(sent)
+                        # self.delete_dm(sent)
 
                     except Exception as ex:
                         sleep(60)
