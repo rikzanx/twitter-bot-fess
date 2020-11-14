@@ -1,7 +1,7 @@
-CONSUMER_KEY = "M06lLqWbaXDzphHUuv7Blsrpg"
-CONSUMER_SECRET = "jQEI2LN748r4G3NRC25lEnuejg9wwEUzUAOSxRohpjS5Qf3mTa"
-ACCESS_KEY = "1208309077538852864-uD5UVzBkiyJ5woac7l1TDHBDxMybNS"
-ACCESS_SECRET = "A9WL7Or9dIUA6KyPmmZ6UxLYBURxRvLiREY3gTlgkOzdr"
+CONSUMER_KEY = "*************************"
+CONSUMER_SECRET = "*************************"
+ACCESS_KEY = "*************************"
+ACCESS_SECRET = "*************************"
 
 
 Github_token = "************"
